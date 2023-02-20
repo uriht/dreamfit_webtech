@@ -8,4 +8,5 @@ form.addEventListener('submit', (event) => {
     console.log(password.value)
     console.log("Hey")
 })
+
 console.log("Whatever")
